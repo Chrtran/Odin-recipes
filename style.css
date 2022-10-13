@@ -188,3 +188,17 @@ h3 {
     color: #fff;
     font-family: "roboto",arial;
 }
+
+li {
+    display: flex;
+    flex-wrap: wrap;
+    position: top;
+}
+
+.framgangsmåte {
+text-align: center;
+width: 400px;
+margin-left: 90px;
+padding: 0px;
+line-height: 17px;
+}
